@@ -1,5 +1,5 @@
 # gccintro 程式碼正體中文翻譯<br />gccintro_code zh_TW translation
-這是一個內含 Brian Gough 著作的 An Introduction to GCC（位於 [http://www.network-theory.co.uk/docs/gccintro/](http://www.network-theory.co.uk/docs/gccintro/)） 書用到的程式碼範例的程式碼倉庫
+這是一個內含 Brian Gough 著作的 An Introduction to GCC（位於 [http://www.network-theory.co.uk/docs/gccintro/](http://www.network-theory.co.uk/docs/gccintro/)） 書用到的程式碼範例的程式碼倉庫  
 This is code repository contain code examples used in "An Introduction to GCC" book written by Brian Gough @ [http://www.network-theory.co.uk/docs/gccintro/](http://www.network-theory.co.uk/docs/gccintro/)
 
 在本程式碼倉庫中Ｖ字龍&lt;pika1021@gmail.com&gt; 將此份程式翻譯為正體中文版本  
