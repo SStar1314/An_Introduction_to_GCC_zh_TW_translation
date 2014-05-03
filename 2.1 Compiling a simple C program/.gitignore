@@ -1,3 +1,4 @@
 .*
 Build_artifacts/*
+!Build_artifacts/README.md
 !.gitignore
