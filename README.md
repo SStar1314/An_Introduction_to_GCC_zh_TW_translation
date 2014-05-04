@@ -9,3 +9,5 @@ In this code repository, Vdragon&lt;pika1021@gmail.com&gt; translated it to zh_T
 這份程式碼來自採用 [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html) 1.2 版授權條款的書，因此本衍伸作品亦使用相同的授權方式。  
 The code is originally from the book licensed under [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html) version 1.2, since then this derivative work is licensed as-is.
 
+## 官方範例來源程式碼位置<br />Official example source-code location
+[http://www.network-theory.co.uk/download/gccintro/](http://www.network-theory.co.uk/download/gccintro/)
