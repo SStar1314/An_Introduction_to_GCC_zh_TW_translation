@@ -1,4 +1,16 @@
+# 不追蹤 Unix 可執行檔（無副檔名的檔案）與可執行檔常見副檔名的檔案
+*
+!*.*
+*.exe
+*.executable
+
+# 不追蹤目標程式碼檔案
+*.o
+*.obj
+*.object_code
+
+# 不追蹤隱藏檔
 .*
-建構產物/*
-!建構產物/README.md
+
+# 追蹤 Git ignore 規則
 !.gitignore
