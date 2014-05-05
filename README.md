@@ -11,3 +11,6 @@ The code is originally from the book licensed under [GNU Free Documentation Lice
 
 ## 官方範例來源程式碼位置<br />Official example source-code location
 [http://www.network-theory.co.uk/download/gccintro/](http://www.network-theory.co.uk/download/gccintro/)
+
+## 常見問題與回答<br />Frequently asked questions and answers
+
