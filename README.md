@@ -13,4 +13,12 @@ The code is originally from the book licensed under [GNU Free Documentation Lice
 [http://www.network-theory.co.uk/download/gccintro/](http://www.network-theory.co.uk/download/gccintro/)
 
 ## 常見問題與回答<br />Frequently asked questions and answers
-
+### 我是貢獻者，在 git status/commit 等命令中無法正常顯示中文字元（顯示為 escape 字元序列如 \347、\267 等）該如何解決？
+您可以透過下列命令讓 Git 在**這個來源程式碼倉庫中**正常顯示非 ASCII 字元
+````
+$ git config core.quotepath false
+````
+如果您要在**所有地方**皆能正常顯示請改用下列命令
+````
+$ git config --global core.quotepath false
+````
