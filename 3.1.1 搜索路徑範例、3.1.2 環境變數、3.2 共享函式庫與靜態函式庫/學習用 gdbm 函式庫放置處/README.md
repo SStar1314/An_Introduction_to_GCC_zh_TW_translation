@@ -564,7 +564,7 @@ make[2]: 没有什么可以做的为 `install-data-am'。
 make[2]:正在离开目录 `gccintro_code_zh_TW_translation/3.1.1 搜索路徑範例/學習用 gdbm 函式庫放置處/gdbm-1.11'
 make[1]:正在离开目录 `gccintro_code_zh_TW_translation/3.1.1 搜索路徑範例/學習用 gdbm 函式庫放置處/gdbm-1.11'
 `````
-### 4. 如果命令執行一切正常 gdbm 最後會被安裝到家目錄底下的 Software 目錄底下的 libgdbm 目錄（或您於最後一個命令指定的 prefix 路徑）中，gdbm 函式庫的 header 檔案會位於底下的 include 目錄，函式庫檔案會位於底下的 lib 目錄底下
+### 4. 如果命令執行一切正常 gdbm 最後會被安裝到家目錄底下的 Software 目錄底下的 libgdbm 目錄（或您於最後一個命令指定的 prefix 路徑）中，gdbm 函式庫的 header 檔案會位於底下的 include 目錄，函式庫檔案會位於底下的 lib 目錄底下。**在未來的章節中所有提到「/opt/gdbm-1.8.3/*」的路徑請直接將其替換為「$prefix/libgdbm/*」。**
 ## 已知問題<br />Known issues
 ### 無法將軟體安裝的 prefix 設定為含中文字元的路徑
 如此執行命令時會出現錯誤，目前找不到解決方法
