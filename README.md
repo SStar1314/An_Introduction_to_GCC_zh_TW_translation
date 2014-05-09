@@ -18,7 +18,7 @@ The code is originally from the book licensed under [GNU Free Documentation Lice
 ````
 $ git config core.quotepath false
 ````
-如果您要在**所有地方**皆能正常顯示請改用下列命令
+如果您要在**所有地方**皆能正常顯示請加上 --global 命令列參數
 ````
 $ git config --global core.quotepath false
 ````
