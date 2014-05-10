@@ -6,6 +6,9 @@
 *.executable
 a.out
 
+# GDBM 資料庫檔案
+*.dbm
+
 # 不追蹤目標程式碼檔案
 *.o
 *.obj
