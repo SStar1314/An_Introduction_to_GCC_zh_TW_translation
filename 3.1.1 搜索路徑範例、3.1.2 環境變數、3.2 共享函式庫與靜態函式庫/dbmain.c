@@ -9,7 +9,7 @@ main (void)
   datum value = { "testvalue", 9 }; /* value, length */
 
   printf ("正在儲存 key-value 配對(pair)……");
-  dbf = gdbm_open ("測試用", 0, GDBM_NEWDB, 0644, 0);
+  dbf = gdbm_open ("測試用.dbm", 0, GDBM_NEWDB, 0644, 0);
   gdbm_store (dbf, key, value, GDBM_INSERT);
   gdbm_close (dbf);
   printf ("完成。\n");
