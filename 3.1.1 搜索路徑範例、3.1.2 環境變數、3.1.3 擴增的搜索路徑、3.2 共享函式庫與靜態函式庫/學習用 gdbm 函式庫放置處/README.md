@@ -5,8 +5,8 @@ http://www.gnu.org.ua/software/gdbm/download.html
 ## 如何建構 gdbm<br />How to build gdbm
 ### 適用性說明
 經測試於 Ubuntu 14.04 x86 64 位元處理器架構版本中
-### 1. 解壓縮下載下來的 gdbm 軟體封裝檔
-### 2. 開啟一個終端機，將當前工作目錄(current working directory)切換到 gdbm-〈版本編號〉目錄中
+### 1. （不建立額外的新資料夾地）解壓縮下載下來的 gdbm 軟體封裝檔於本目錄
+### 2. 開啟一個終端機，將當前工作目錄(current working directory)切換到本目錄底下的 gdbm-〈版本編號〉目錄中
 ### 3. 在終端機內執行下列命令建構 gdbm（命令輸出訊息僅供參考）
 `````
 $ ./configure  
