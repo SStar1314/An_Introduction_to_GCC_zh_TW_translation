@@ -5,6 +5,11 @@ This is code repository contain code examples used in "An Introduction to GCC" b
 在本程式碼倉庫中Ｖ字龍&lt;pika1021@gmail.com&gt; 將此份程式翻譯為正體中文版本  
 In this code repository, Vdragon&lt;pika1021@gmail.com&gt; translated it to zh_TW language.
 
+（直接或間接）使用 Debian 官方軟體來源作為軟體來源的作業系統散佈版本（如 Debian、Ubuntu、Linux Mint 等）的使用者可以安裝 gccintro 軟體包將電子書安裝到系統中，電子書將被安裝至下列目錄：
+`````
+/usr/share/doc/gccintro
+`````
+
 ## 授權條款<br />License
 這份程式碼來自採用 [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html) 1.2 版授權條款的書，因此本衍伸作品亦使用相同的授權方式。  
 The code is originally from the book licensed under [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html) version 1.2, since then this derivative work is licensed as-is.
