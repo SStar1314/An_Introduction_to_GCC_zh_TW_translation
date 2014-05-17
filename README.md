@@ -10,7 +10,7 @@ In this code repository, Vdragon&lt;pika1021@gmail.com&gt; translated it to zh_T
 `````
 /usr/share/doc/gccintro
 `````
-要注意的是此版本電子書相對於官方版本有新增一些內容，請參考**常見問題與回答** 2. 之說明。
+要注意的是此版本電子書相對於官方版本有新增一些內容，請參考[常見問題與回答 2.](#2-我透過-debian-官方軟體來源提供的-gccintro-軟體包使用電子書為何第-8-章以後的內容和程式碼倉庫中的不相同) 之說明。
 
 ## 授權條款<br />License
 這份程式碼來自採用 [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html) 1.2 版授權條款的書，因此本衍伸作品亦使用相同的授權方式。  
