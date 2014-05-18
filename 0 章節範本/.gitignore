@@ -28,5 +28,8 @@ core
 *.so
 *.dll
 
+# 不追蹤產生給 GNU profiler 使用的檔案
+gmon.out
+
 # 追蹤 Git ignore 規則
 !.gitignore
