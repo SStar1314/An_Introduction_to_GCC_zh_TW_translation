@@ -40,8 +40,5 @@ gmon.out
 *.gcda
 *.gcno
 
-# 第 13.3 章範例檔案
-!hello
-
 # 追蹤 Git ignore 規則
 !.gitignore
