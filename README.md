@@ -19,6 +19,12 @@ The code is originally from the book licensed under [GNU Free Documentation Lice
 ## 官方範例來源程式碼位置<br />Official example source-code location
 [http://www.network-theory.co.uk/download/gccintro/](http://www.network-theory.co.uk/download/gccintro/)
 
+## 開發進度<br />Developing progress
+目前所有有程式碼的部份都已經加入 Git 程式碼倉庫中
+
+## 下一個里程碑<br />Next milestone
+將電子書全部內容拉近 Git 內容倉庫，變成一個完整的 gccintro 電子書正體中文版本！
+
 ## 常見問題與回答<br />Frequently asked questions and answers
 ### 1. 我是貢獻者，在 git status/commit 等命令中無法正常顯示中文字元（顯示為 escape 字元序列如 \347、\267 等）該如何解決？
 您可以透過下列命令讓 Git 在**這個來源程式碼倉庫中**正常顯示非 ASCII 字元
