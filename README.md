@@ -19,7 +19,7 @@ The code is originally from the book licensed under [GNU Free Documentation Lice
 ## 官方範例來源程式碼位置<br />Official example source-code location
 [http://www.network-theory.co.uk/download/gccintro/](http://www.network-theory.co.uk/download/gccintro/)
 
-## 開發進度<br />Developing progress
+## 開發進度<br />Development progress
 目前所有有程式碼的部份都已經加入 Git 程式碼倉庫中
 
 ## 下一個里程碑<br />Next milestone
