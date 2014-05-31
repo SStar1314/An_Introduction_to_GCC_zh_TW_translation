@@ -19,6 +19,13 @@ The content of this repository is originally from the book licensed under [GNU F
 ## 本書原官方網站<br />The original official site of this book
 [http://www.network-theory.co.uk/download/gccintro/](http://www.network-theory.co.uk/download/gccintro/)
 
+## 本書原始作者<br />Original author of this book
+Brian Gough  
+並由 Richard M. Stallman 先生為其撰寫序言
+
+## 本書書籍介紹<br />Book introduction
+本使用手冊提供了一份身為 GNU Compiler Collection (GCC) 的一部份的 GNU C 和 C++ 編譯器，`gcc` 和 `g++` 的介紹。此使用手冊的開發完全由 [Network Theory 有限公司](http://www.network-theory.co.uk/)資助。由 Network Theory 有限公司出版的書籍副本的收入用來賺錢以製作更多自由書籍。
+
 ## 開發進度<br />Developing progress
 目前所有範例程式碼都已經加入本內容倉庫中
 
