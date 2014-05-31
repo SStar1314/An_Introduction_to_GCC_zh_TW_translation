@@ -6,4 +6,4 @@ Ubuntu 預設使用 Apport 來處理程式的 core dump （而且只處理 Ubunt
 # sysctl kernel.core_pattern="core"
 ````
 此設定方式於系統重新啟動後會失效。  
-參考 core(5) 的 Naming of core dump files 以得知如何自訂 coredump 檔案的名稱
+參閱 core(5) manpage 的 Naming of core dump files 段落以得知如何自訂 coredump 檔案的名稱
