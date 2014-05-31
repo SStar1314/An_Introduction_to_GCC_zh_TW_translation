@@ -23,7 +23,7 @@ The content of this repository is originally from the book licensed under [GNU F
 目前所有範例程式碼都已經加入本內容倉庫中
 
 ## 下一個里程碑<br />Next milestone
-將電子書全部內容拉近 Git 內容倉庫，變成一個完整的 gccintro 電子書正體中文版本！
+將電子書全部內容拉近 Git 內容倉庫，變成一個完整的 An Introduction to GCC 電子書正體中文版本！
 
 ## 常見問題與回答<br />Frequently asked questions and answers
 ### 1. 我是貢獻者，在 git status/commit 等命令中無法正常顯示中文字元（顯示為 escape 字元序列如 \347、\267 等）該如何解決？
