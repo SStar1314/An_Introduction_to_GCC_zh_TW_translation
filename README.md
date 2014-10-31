@@ -38,9 +38,13 @@ Brian Gough
 ````
 $ git config core.quotepath false
 ````
-如果您要在**所有地方**皆能正常顯示請加上 --global 命令列參數
+如果您要在同一使用者的**所有地方**皆能正常顯示請加上 --global 命令列參數
 ````
 $ git config --global core.quotepath false
+````
+如果您要**全系統使用者**都正常顯示請加上 --system git-config 命令列參數
+````
+# git config --system core.quotepath false
 ````
 
 ### 2. 我透過 Debian 官方軟體來源提供的 gccintro 軟體包使用電子書，為何第 8 章以後的內容和內容倉庫中的不相同？
